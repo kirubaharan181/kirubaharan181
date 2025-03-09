@@ -55,8 +55,7 @@
 
 ### **Profile Views**
 <p align="left">
-  <img src="https://hit.yhype.me/github/profile?user_id=kirubaharan181" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
 </p>
-
 ---
 
