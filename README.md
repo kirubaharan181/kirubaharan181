@@ -58,6 +58,6 @@
   <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 ---
-<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=YOUR_TRACKING_ID&cid=555&dp=/github-profile" width="0" height="0" />
+<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=YOUR_TRACKING_ID&cid=555&dp=/github-profile" width="100" height="100" />
 
 
