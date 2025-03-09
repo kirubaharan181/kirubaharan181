@@ -54,6 +54,12 @@
 ---
 
 ### **Profile Views**
-![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/kirubaharan181&query=$.followers&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<p align="left">
+  <img src="https://hit.yhype.me/github/profile?user_id=kirubaharan181" alt="Profile Views Counter" />
+</p>
 
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
+</p>
 ---
