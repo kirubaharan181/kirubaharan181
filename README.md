@@ -59,7 +59,4 @@
 </p>
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
-</p>
----
+
