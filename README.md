@@ -54,8 +54,6 @@
 ---
 
 ### **Profile Views**
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/kirubaharan181&query=$.followers&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ---
