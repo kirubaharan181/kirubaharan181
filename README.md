@@ -53,4 +53,9 @@
 
 ---
 
-Let me know if you need any modifications! 🚀  
+### **Profile Views**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kirubaharan181&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
