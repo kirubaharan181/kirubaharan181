@@ -1,8 +1,8 @@
 # Hi 👋, I'm Kirubaharan  
 ## Java Developer  
 
-🌱 I’m currently learning **Angular.js**  
-💬 Ask me about **Java, Networking, and Software Engineering**  
+🌱 I’m currently learning **React.js**  
+💬 Ask me about **Java, Data Analytics, and Software Engineering**  
 📫 How to reach me: [kirubakrishkk@gmail.com](mailto:kirubakrishkk@gmail.com)  
 
 ---
