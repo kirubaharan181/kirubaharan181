@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kirubaharan  
 ## Java Developer  
 
-🌱 I’m currently learning **React.js**  
+🌱 I’m currently learning **PowerBI**  
 💬 Ask me about **Java, Data Analytics, and Software Engineering**  
 📫 How to reach me: [kirubakrishkk@gmail.com](mailto:kirubakrishkk@gmail.com)  
 
