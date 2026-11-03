@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-label="Daily learning focus: GitHub trending repositories and AI agent workflows with n8n">
+<rect x="3" y="3" width="1094" height="184" rx="24" fill="#0b1222" stroke="#7c3aed" stroke-width="2"/>
+<text x="550" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#fff">DAILY TECH EXPLORATION</text>
+<g transform="translate(90 70)"><circle cx="40" cy="40" r="34" fill="#172554" stroke="#38bdf8" stroke-width="2"/><text x="40" y="51" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" fill="#fff">⌘</text><text x="95" y="35" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">GitHub Trending</text><text x="95" y="61" font-family="Arial,sans-serif" font-size="14" fill="#cbd5e1">Discover repositories, tools and developer trends</text></g>
+<path d="M525 110h55m-12-10 12 10-12 10" stroke="#a78bfa" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(620 70)"><circle cx="40" cy="40" r="34" fill="#3b0764" stroke="#f472b6" stroke-width="2"/><text x="40" y="51" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">n8n</text><text x="95" y="35" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">AI Agent Workflows</text><text x="95" y="61" font-family="Arial,sans-serif" font-size="14" fill="#cbd5e1">Explore orchestration, integrations and automation</text></g>
+</svg>
