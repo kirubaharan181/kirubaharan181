@@ -67,6 +67,13 @@ I build practical software with an emphasis on clear engineering, useful automat
 | [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | Emoji-aware hate-speech research using PyTorch and Transformers |
 | [300 LeetCode Java Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | Java data structures and algorithm practice organized by topic |
 
+## 🏆 Certifications, Training & Achievements
+
+- 🔐 **CyberArk PAM:** Completed CyberArk On-Premises Administration training and continuing to develop practical knowledge of Privileged Access Management.
+- 💻 **Problem Solving:** Built a collection of 300 Java solutions covering LeetCode data structures and algorithms.
+- 🤖 **Agentic AI:** Developed an AI-powered application using Google ADK and Gemini.
+- ☁️ **Cloud Development:** Explored deployment of AI-powered applications using Google Cloud and Cloud Run.
+
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
 ## GitHub dashboard
