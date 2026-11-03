@@ -11,9 +11,9 @@
 
   <br/><br/>
 
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Visit portfolio website" src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f172a?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kirubakrishkk@gmail.com"><img alt="Send an email" src="https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Explore Kirubaharan's portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Explore-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4c1d95" /></a>
+  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img alt="Compose an email in Gmail" src="https://img.shields.io/badge/Gmail-Message_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b91c1c" /></a>
 
   <br/><br/>
 
@@ -92,6 +92,17 @@ I believe in continuous learning, practical implementation and building technolo
 - 🤖 **Agentic AI:** Developed an AI-powered application using Google ADK and Gemini.
 - ☁️ **Cloud Development:** Explored deployment of AI-powered applications using Google Cloud and Cloud Run.
 
+## 🔐 Cybersecurity & AI Security
+
+My cybersecurity learning and development focus:
+
+- **CyberArk PAM:** On-Premises Administration training and hands-on learning in Privileged Access Management.
+- **Identity & Access Management (IAM):** Privileged access, identity security, authentication and authorization.
+- **AI Agent Security:** Exploring secure AI agent identities, credential protection, least-privilege access and tool permissions.
+- **Cloud Security:** Learning secure configurations, access control and secrets management for cloud applications.
+
+**Current specialization:** CyberArk PAM | IAM | Privileged Access Security | AI Agent Security
+
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
 ## GitHub dashboard
@@ -132,9 +143,9 @@ I believe in continuous learning, practical implementation and building technolo
 ## Connect
 
 <div align="center">
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kirubakrishkk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Explore portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Explore-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4c1d95" /></a>
+  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img alt="Compose an email in Gmail" src="https://img.shields.io/badge/Gmail-Message_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b91c1c" /></a>
   <br/><br/>
   <img width="100%" alt="Purple, pink, and navy footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ec4899,50:6d28d9,100:0f172a&section=footer&animation=fadeIn" />
 </div>
