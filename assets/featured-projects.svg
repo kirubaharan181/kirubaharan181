@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Featured projects showcase</title>
+<desc id="desc">Four futuristic project panels for an AI fitness coach, explainable hate speech research, developer portfolio, and Java algorithm solutions.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#17102c"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a855f7"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ec4899"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f59e0b"/><stop offset="1" stop-color="#ea580c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .h{font:700 27px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}.sub{font:500 15px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}.tag{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#e2e8f0}.num{font:700 42px 'Segoe UI',Arial,sans-serif;fill:#fff}.ico{font:700 44px 'Segoe UI',Arial,sans-serif;fill:#fff}
+  </style>
+</defs>
+<rect width="1200" height="650" rx="28" fill="url(#bg)"/>
+<text x="600" y="55" text-anchor="middle" class="h" font-size="34">FEATURED PROJECTS</text>
+<text x="600" y="82" text-anchor="middle" class="sub">AI • Cybersecurity-aware Engineering • Web Development • Problem Solving</text>
+<!-- card 1 -->
+<g transform="translate(24 112)">
+ <rect width="564" height="242" rx="22" fill="#0e1b2e" stroke="#22d3ee" stroke-width="2"/>
+ <circle cx="105" cy="115" r="72" fill="url(#cyan)" opacity=".17" filter="url(#glow)"/>
+ <circle cx="105" cy="115" r="49" fill="none" stroke="#22d3ee" stroke-width="3"/>
+ <path d="M105 78v74M68 115h74M79 89l52 52M131 89l-52 52" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+ <text x="185" y="55" class="h">Tamil Nadu Workout &amp;</text><text x="185" y="87" class="h">Nutrition Coach</text>
+ <text x="185" y="123" class="sub">Agentic AI • Google ADK • Gemini</text>
+ <text x="185" y="157" class="sub">Personalized workouts, regional diet</text><text x="185" y="180" class="sub">guidance and nutrition calculations.</text>
+ <rect x="185" y="198" width="138" height="27" rx="13" fill="url(#cyan)"/><text x="254" y="216" text-anchor="middle" class="tag">FASTAPI</text>
+ <rect x="333" y="198" width="104" height="27" rx="13" fill="#164e63"/><text x="385" y="216" text-anchor="middle" class="tag">FIRESTORE</text>
+ <rect x="447" y="198" width="98" height="27" rx="13" fill="#1e3a8a"/><text x="496" y="216" text-anchor="middle" class="tag">CLOUD RUN</text>
+</g>
+<!-- card 2 -->
+<g transform="translate(612 112)">
+ <rect width="564" height="242" rx="22" fill="#171126" stroke="#e879f9" stroke-width="2"/>
+ <circle cx="105" cy="115" r="72" fill="url(#pink)" opacity=".18" filter="url(#glow)"/>
+ <path d="M70 83h70v48H70z" fill="none" stroke="#f0abfc" stroke-width="3" rx="8"/><path d="M81 98l10 9-10 9M101 116h25" fill="none" stroke="#f0abfc" stroke-width="3" stroke-linecap="round"/>
+ <circle cx="142" cy="75" r="16" fill="#f472b6"/><path d="M135 75h14M142 68v14" stroke="#4a044e" stroke-width="3"/>
+ <text x="185" y="55" class="h">HateEmofusion</text>
+ <text x="185" y="91" class="sub">AI Research • NLP • Explainable AI</text>
+ <text x="185" y="130" class="sub">Emoji-aware hate speech detection</text><text x="185" y="153" class="sub">with transformer models and model</text><text x="185" y="176" class="sub">explainability techniques.</text>
+ <rect x="185" y="198" width="90" height="27" rx="13" fill="url(#pink)"/><text x="230" y="216" text-anchor="middle" class="tag">PYTHON</text>
+ <rect x="285" y="198" width="96" height="27" rx="13" fill="#581c87"/><text x="333" y="216" text-anchor="middle" class="tag">PYTORCH</text>
+ <rect x="391" y="198" width="88" height="27" rx="13" fill="#831843"/><text x="435" y="216" text-anchor="middle" class="tag">BERT</text>
+</g>
+<!-- card 3 -->
+<g transform="translate(24 378)">
+ <rect width="564" height="242" rx="22" fill="#0d1a2c" stroke="#38bdf8" stroke-width="2"/>
+ <rect x="55" y="63" width="100" height="75" rx="8" fill="none" stroke="#38bdf8" stroke-width="4"/><path d="M42 150h126l-12 12H54z" fill="#38bdf8"/><path d="M75 82h60M75 100h40M75 118h48" stroke="#a5f3fc" stroke-width="4" stroke-linecap="round"/>
+ <text x="185" y="63" class="h">Kiruba Portfolio</text>
+ <text x="185" y="100" class="sub">Frontend • Personal Branding</text>
+ <text x="185" y="139" class="sub">A responsive portfolio showcasing</text><text x="185" y="162" class="sub">projects, technical skills and profile.</text>
+ <rect x="185" y="198" width="84" height="27" rx="13" fill="url(#cyan)"/><text x="227" y="216" text-anchor="middle" class="tag">REACT</text>
+ <rect x="279" y="198" width="115" height="27" rx="13" fill="#1e40af"/><text x="336" y="216" text-anchor="middle" class="tag">TYPESCRIPT</text>
+ <rect x="404" y="198" width="118" height="27" rx="13" fill="#164e63"/><text x="463" y="216" text-anchor="middle" class="tag">TAILWIND</text>
+</g>
+<!-- card 4 -->
+<g transform="translate(612 378)">
+ <rect width="564" height="242" rx="22" fill="#20170e" stroke="#fbbf24" stroke-width="2"/>
+ <rect x="58" y="61" width="96" height="112" rx="9" fill="#3b2b17" stroke="#fbbf24" stroke-width="3"/>
+ <path d="M75 84h60M75 101h48M75 118h60M75 135h42" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+ <text x="105" y="199" text-anchor="middle" class="num" font-size="27">300+</text>
+ <text x="185" y="63" class="h">LeetCode Java Solutions</text>
+ <text x="185" y="100" class="sub">Problem Solving • DSA • Java</text>
+ <text x="185" y="139" class="sub">A topic-organized collection of Java</text><text x="185" y="162" class="sub">solutions for algorithmic practice.</text>
+ <rect x="185" y="198" width="85" height="27" rx="13" fill="url(#gold)"/><text x="227" y="216" text-anchor="middle" class="tag">JAVA</text>
+ <rect x="280" y="198" width="135" height="27" rx="13" fill="#78350f"/><text x="347" y="216" text-anchor="middle" class="tag">DATA STRUCTURES</text>
+ <rect x="425" y="198" width="112" height="27" rx="13" fill="#92400e"/><text x="481" y="216" text-anchor="middle" class="tag">ALGORITHMS</text>
+</g>
+</svg>
