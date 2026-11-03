@@ -25,14 +25,32 @@
 
 ## About
 
-```text
-Software Developer
-Focus: Java · Python · React · TypeScript · SQL
-Building: AI agents · automation workflows · applied machine learning
-Exploring: cloud delivery · secure engineering · developer tooling
-```
+### Software Developer | Agentic AI | Cybersecurity & Cloud
 
-I build practical software with an emphasis on clear engineering, useful automation, and evidence-based technical communication. This profile reflects public project work and learning in progress—not inflated claims.
+I build practical software applications, intelligent AI-powered systems, and automation solutions. My interests span full-stack development, agentic AI architectures, cloud technologies, and cybersecurity.
+
+**My engineering focus:**
+- 💻 **Software Engineering:** Java, Python, React, TypeScript, REST APIs and database-driven applications.
+- 🤖 **Agentic AI:** Google ADK, Gemini, AI agents, RAG, tool integration and intelligent automation.
+- 🔐 **Cybersecurity:** Hands-on work with CyberArk Privileged Access Management (PAM), privileged account security, identity security and exploring AI agent security.
+- ☁️ **Cloud & DevOps:** Google Cloud, Docker, CI/CD and cloud-native application development.
+
+I enjoy turning ideas into useful applications while continuously strengthening my engineering, problem-solving and security skills.
+
+### 🚀 About Me
+
+I'm a software developer interested in building reliable applications and exploring how AI and cybersecurity can shape the future of software engineering.
+
+My current focus includes:
+
+- Building full-stack applications and backend services.
+- Developing AI agents with tool integration, memory and automation capabilities.
+- Exploring Retrieval-Augmented Generation (RAG) and practical LLM applications.
+- Working with CyberArk PAM and strengthening my knowledge of identity and privileged access management.
+- Exploring security considerations for AI agents and cloud-based systems.
+- Improving software architecture, problem-solving and development practices.
+
+I believe in continuous learning, practical implementation and building technology that solves real-world problems.
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
