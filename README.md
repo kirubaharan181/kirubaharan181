@@ -11,7 +11,36 @@
     · <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320">LinkedIn</a>
     · <a href="https://github.com/kirubaharan181">GitHub</a>
   </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/BUILDING-AI%20%26%20AUTOMATION-8B5CF6?style=for-the-badge" alt="Building AI and automation projects" />
+    <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-06B6D4?style=for-the-badge" alt="Focused on software engineering" />
+  </p>
 </div>
+
+---
+
+## Engineering dashboard
+
+<p align="center">
+  <a href="https://github.com/kirubaharan181">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirubaharan181&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=06B6D4&text_color=CBD5E1" alt="GitHub statistics for Kirubaharan" />
+  </a>
+  <a href="https://github.com/kirubaharan181?tab=repositories">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kirubaharan181&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="Contribution streak for Kirubaharan" />
+  </a>
+  <a href="https://github.com/kirubaharan181?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubaharan181&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=CBD5E1" alt="Most-used public repository languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kirubaharan181.kirubaharan181" alt="Profile view counter" />
+  <a href="https://github.com/kirubaharan181?tab=followers"><img src="https://img.shields.io/github/followers/kirubaharan181?label=Followers&style=for-the-badge&color=06B6D4" alt="GitHub follower count" /></a>
+  <a href="https://github.com/kirubaharan181?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-12-0F172A?style=for-the-badge&labelColor=8B5CF6" alt="12 public repositories" /></a>
+</p>
+
+> Dashboard cards are sourced from public GitHub data and third-party image services. If an image service is unavailable, the linked GitHub profile and repository list remain the source of truth.
 
 ---
 
@@ -25,6 +54,14 @@
 > This profile favors verifiable project evidence over inflated claims.
 
 ## Technology ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=google-gemini&logoColor=8B5CF6" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Cloud%20Automation-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Cloud automation" />
+</p>
 
 <table>
   <tr>
@@ -77,13 +114,32 @@
 
 ## Selected work
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Tamil Nadu Workout & Nutrition Coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | AI assistant with tools, persistent memory, evaluation assets, and cloud deployment | Python, Google ADK, Gemini, FastAPI, Firestore, Cloud Run |
-| [Portfolio Website](https://github.com/kirubaharan181/kiruba-portfolio) | Responsive developer portfolio deployed to GitHub Pages | React, TypeScript, Vite, Tailwind CSS |
-| [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | Emoji-aware hate-speech research and model experimentation | Python, PyTorch, Transformers, Jupyter |
-| [300 LeetCode Java Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | Ongoing data structures and algorithms practice | Java |
-| [Scoodemy](https://github.com/kirubaharan181/Scoodemy__An-E-Learning-Platform) | Role-based desktop learning-platform project | Java Swing, MySQL, Maven |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach">Tamil Nadu Workout &amp; Nutrition Coach</a></h3>
+      <p>AI assistant with tools, persistent memory, evaluation assets, and cloud deployment.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ADK-8B5CF6?style=flat-square" alt="Google ADK" /> <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kirubaharan181/kiruba-portfolio">Portfolio Website</a></h3>
+      <p>Responsive developer portfolio deployed to GitHub Pages.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kirubaharan181/HateEmofusion">HateEmofusion</a></h3>
+      <p>Emoji-aware hate-speech research and model experimentation.</p>
+      <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" alt="Transformers" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions">300 LeetCode Java Solutions</a></h3>
+      <p>Ongoing data structures and algorithms practice organized in Java.</p>
+      <p><img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Algorithms-8B5CF6?style=flat-square" alt="Algorithms" /></p>
+    </td>
+  </tr>
+</table>
 
 ## Currently building and learning
 
@@ -91,19 +147,6 @@
 - Developing automation workflows for curated GitHub and market digests.
 - Strengthening Java problem solving, software design, and cloud delivery practices.
 - Exploring secure engineering practices for modern AI-enabled applications.
-
-## GitHub activity
-
-<p>
-  <a href="https://github.com/kirubaharan181">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kirubaharan181&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for Kirubaharan" />
-  </a>
-  <a href="https://github.com/kirubaharan181?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubaharan181&layout=compact&hide_border=true&theme=transparent" alt="Most-used public repository languages" />
-  </a>
-</p>
-
-> If these external cards are unavailable, visit the [repository list](https://github.com/kirubaharan181?tab=repositories) for live GitHub data.
 
 ## Connect
 
