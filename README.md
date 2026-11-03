@@ -110,14 +110,14 @@ My cybersecurity learning and development focus:
 ## GitHub dashboard
 
 <div align="center">
-  <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=kirubaharan181&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&include_all_commits=true&count_private=false" />
-  <img height="180" alt="Most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubaharan181&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" />
+  <img height="180" alt="GitHub statistics with white text on a dark background" src="https://github-readme-stats.vercel.app/api?username=kirubaharan181&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=38BDF8&include_all_commits=true&count_private=false" />
+  <img height="180" alt="Most-used public repository languages with white text on a dark background" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubaharan181&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" />
   <br/>
-  <img height="170" alt="Contribution streak statistics" src="https://streak-stats.demolab.com?user=kirubaharan181&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" />
+  <img height="170" alt="Contribution streak statistics with white labels and numbers" src="https://streak-stats.demolab.com?user=kirubaharan181&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
   <br/>
-  <img width="95%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kirubaharan181&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&area_color=6d28d9" />
+  <img width="95%" alt="GitHub contribution activity graph with white text on a dark background" src="https://github-readme-activity-graph.vercel.app/graph?username=kirubaharan181&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=ec4899&point=ffffff&area=true&area_color=6d28d9" />
   <br/>
-  <img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=kirubaharan181&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img alt="GitHub profile trophies with the Tokyo Night theme" src="https://github-profile-trophy.vercel.app/?username=kirubaharan181&theme=tokyonight&title=FFFFFF&text=FFFFFF&no-frame=true&no-bg=true&column=7&margin-w=8" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake-dark.svg" />
