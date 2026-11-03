@@ -71,6 +71,8 @@ I believe in continuous learning, practical implementation and building technolo
 ## Featured projects
 
 <div align="center">
+  <img src="assets/featured-projects.svg" width="100%" alt="Visual showcase of four projects: Tamil Nadu Workout and Nutrition Coach, HateEmofusion, Kiruba Portfolio, and 300 LeetCode Java Solutions" />
+  <br/><br/>
   <a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach"><img alt="Repository card for Tamil Nadu Workout and Nutrition Coach" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=buildwithgemini-tn-workout-coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
   <a href="https://github.com/kirubaharan181/kiruba-portfolio"><img alt="Repository card for Kiruba Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=kiruba-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
   <br/>
@@ -78,12 +80,12 @@ I believe in continuous learning, practical implementation and building technolo
   <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img alt="Repository card for 300 LeetCode Java Solutions" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=300_Leetcode_Solved_Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
 </div>
 
-| Project | Verified focus |
-| --- | --- |
-| [Tamil Nadu Workout & Nutrition Coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | Google ADK/Gemini agent, FastAPI, Firestore memory, Cloud Run, tests and evaluations |
-| [Kiruba Portfolio](https://kirubaharan181.github.io/kiruba-portfolio/) | React, TypeScript, Vite, Tailwind CSS, GitHub Pages |
-| [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | Emoji-aware hate-speech research using PyTorch and Transformers |
-| [300 LeetCode Java Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | Java data structures and algorithm practice organized by topic |
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Tamil Nadu Workout & Nutrition Coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) · [Live demo](https://tn-workout-coach-frontend-658906291388.us-east1.run.app) | Agentic fitness and nutrition assistant with regional diet guidance, workout planning and nutrition calculations | Google ADK, Gemini, FastAPI, Firestore, Cloud Run |
+| [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | Emoji-aware hate-speech research using transformer models and explainability techniques | Python, PyTorch, BERT, DistilBERT, LIME, SHAP |
+| [Kiruba Portfolio](https://kirubaharan181.github.io/kiruba-portfolio/) · [Source code](https://github.com/kirubaharan181/kiruba-portfolio) | Responsive personal portfolio presenting projects, skills and professional profile | React, TypeScript, Vite, Tailwind CSS |
+| [300 LeetCode Java Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | Topic-organized Java solutions demonstrating data structures and algorithm practice | Java, Data Structures, Algorithms |
 
 ## 🏆 Certifications, Training & Achievements
 
