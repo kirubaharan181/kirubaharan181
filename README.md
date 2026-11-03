@@ -57,13 +57,43 @@ I believe in continuous learning, practical implementation and building technolo
 ## Technology ecosystem
 
 <div align="center">
-  <img alt="Languages: Java, Python, JavaScript, TypeScript, HTML, CSS" src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&theme=dark&perline=6" />
-  <br/>
-  <img alt="Application development: React, Vite, Tailwind CSS, Node.js, Flask, FastAPI" src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,flask,fastapi&theme=dark&perline=6" />
-  <br/>
-  <img alt="AI and data: TensorFlow, PyTorch, Jupyter, MySQL" src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter,mysql&theme=dark&perline=4" />
-  <br/>
-  <img alt="Cloud and tools: Google Cloud, Docker, GitHub Actions, Git, VS Code" src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git,vscode&theme=dark&perline=5" />
+
+### 💻 Programming languages
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Java, Python and JavaScript logos" />
+<img src="https://img.shields.io/badge/SQL-Database_Query_Language-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+
+### 🎨 Frontend development
+<img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=dark" alt="HTML5, CSS3, React and Angular logos" />
+
+### ⚙️ Backend development
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js logos" />
+
+### 🤖 AI & Agentic AI
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch logos" />
+<br/>
+<img src="https://img.shields.io/badge/Google_Gemini-Generative_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Google_ADK-Agent_Development_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agent Development Kit" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0F766E?style=for-the-badge" alt="Retrieval Augmented Generation" />
+<img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-7C3AED?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-475569?style=for-the-badge" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+### 🔐 Cybersecurity
+<img src="https://img.shields.io/badge/CyberArk-Privileged_Access_Security-00A3E0?style=for-the-badge" alt="CyberArk" />
+<img src="https://img.shields.io/badge/IAM-Identity_Access_Management-334155?style=for-the-badge" alt="Identity and Access Management" />
+<img src="https://img.shields.io/badge/PAM-Privileged_Access_Management-334155?style=for-the-badge" alt="Privileged Access Management" />
+<img src="https://img.shields.io/badge/AI_Agent_Security-Secure_Agent_Access-7C3AED?style=for-the-badge" alt="AI Agent Security" />
+
+### 🗄️ Database & storage
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB and Firebase logos" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" alt="AWS, Docker, Kubernetes and GitHub Actions logos" />
+
+### 🛠️ Tools & platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman logos" />
+<img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Microsoft Power BI" />
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
