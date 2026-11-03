@@ -11,9 +11,9 @@
 
   <br/><br/>
 
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Explore Kirubaharan's portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Explore-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4c1d95" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img alt="Compose an email in Gmail" src="https://img.shields.io/badge/Gmail-Message_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b91c1c" /></a>
+  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img src="assets/button-portfolio.svg" width="190" alt="" /></a>
+  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img src="assets/button-gmail.svg" width="190" alt="" /></a>
 
   <br/><br/>
 
@@ -71,21 +71,11 @@ I believe in continuous learning, practical implementation and building technolo
 ## Featured projects
 
 <div align="center">
-  <img src="assets/featured-projects.svg" width="100%" alt="Visual showcase of four projects: Tamil Nadu Workout and Nutrition Coach, HateEmofusion, Kiruba Portfolio, and 300 LeetCode Java Solutions" />
-  <br/><br/>
-  <a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach"><img alt="Repository card for Tamil Nadu Workout and Nutrition Coach" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=buildwithgemini-tn-workout-coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
-  <a href="https://github.com/kirubaharan181/kiruba-portfolio"><img alt="Repository card for Kiruba Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=kiruba-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
-  <br/>
-  <a href="https://github.com/kirubaharan181/HateEmofusion"><img alt="Repository card for HateEmofusion" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=HateEmofusion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
-  <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img alt="Repository card for 300 LeetCode Java Solutions" src="https://github-readme-stats.vercel.app/api/pin/?username=kirubaharan181&repo=300_Leetcode_Solved_Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899" /></a>
+  <a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach"><img src="assets/project-workout.svg" width="48%" alt="" /></a>
+  <a href="https://github.com/kirubaharan181/HateEmofusion"><img src="assets/project-hateemofusion.svg" width="48%" alt="" /></a>
+  <a href="https://github.com/kirubaharan181/kiruba-portfolio"><img src="assets/project-portfolio.svg" width="48%" alt="" /></a>
+  <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img src="assets/project-leetcode.svg" width="48%" alt="" /></a>
 </div>
-
-| Project | What it demonstrates | Technologies |
-| --- | --- | --- |
-| [Tamil Nadu Workout & Nutrition Coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) · [Live demo](https://tn-workout-coach-frontend-658906291388.us-east1.run.app) | Agentic fitness and nutrition assistant with regional diet guidance, workout planning and nutrition calculations | Google ADK, Gemini, FastAPI, Firestore, Cloud Run |
-| [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | Emoji-aware hate-speech research using transformer models and explainability techniques | Python, PyTorch, BERT, DistilBERT, LIME, SHAP |
-| [Kiruba Portfolio](https://kirubaharan181.github.io/kiruba-portfolio/) · [Source code](https://github.com/kirubaharan181/kiruba-portfolio) | Responsive personal portfolio presenting projects, skills and professional profile | React, TypeScript, Vite, Tailwind CSS |
-| [300 LeetCode Java Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | Topic-organized Java solutions demonstrating data structures and algorithm practice | Java, Data Structures, Algorithms |
 
 ## 🏆 Certifications, Training & Achievements
 
@@ -110,44 +100,35 @@ My cybersecurity learning and development focus:
 ## GitHub dashboard
 
 <div align="center">
-  <img height="180" alt="GitHub statistics with white text on a dark background" src="https://github-readme-stats.vercel.app/api?username=kirubaharan181&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=38BDF8&include_all_commits=true&count_private=false" />
-  <img height="180" alt="Most-used public repository languages with white text on a dark background" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubaharan181&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" />
-  <br/>
-  <img height="170" alt="Contribution streak statistics with white labels and numbers" src="https://streak-stats.demolab.com?user=kirubaharan181&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
-  <br/>
-  <img width="95%" alt="GitHub contribution activity graph with white text on a dark background" src="https://github-readme-activity-graph.vercel.app/graph?username=kirubaharan181&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=ec4899&point=ffffff&area=true&area_color=6d28d9" />
-  <br/>
-  <img alt="GitHub profile trophies with the Tokyo Night theme" src="https://github-profile-trophy.vercel.app/?username=kirubaharan181&theme=tokyonight&title=FFFFFF&text=FFFFFF&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <a href="https://github.com/kirubaharan181"><img src="assets/github-analytics-visual.svg" width="100%" alt="" /></a>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake-dark.svg" />
-    <img alt="Animated snake consuming the GitHub contribution graph" src="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake.svg" />
   </picture>
 </div>
 
-<details>
-  <summary>Dashboard fallback</summary>
-
-  The cards above use public GitHub data through third-party image services and may occasionally be cached or unavailable. Live repository data is always available on the [GitHub profile](https://github.com/kirubaharan181) and [repository list](https://github.com/kirubaharan181?tab=repositories).
-</details>
-
-<img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Current direction
 
-- Improving AI-agent systems with reliable tools, evaluation, and safe boundaries.
-- Developing automation workflows for curated GitHub and market digests.
-- Strengthening Java problem solving, software design, and cloud delivery practices.
-- Exploring secure engineering practices for modern AI-enabled applications.
+<div align="center">
+  <img src="assets/daily-tech-focus.svg" width="100%" alt="" />
+</div>
 
-<img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
+- Daily exploring GitHub Trending repositories to discover useful projects, developer tools and emerging technologies.
+- Learning to design and orchestrate AI-agent workflows with n8n and connected platforms.
+- Improving AI-agent reliability, tool permissions, credential handling and safe automation boundaries.
+- Strengthening CyberArk PAM, IAM, Java problem solving and cloud security knowledge.
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Connect
 
 <div align="center">
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img alt="Explore portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Explore-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4c1d95" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e40af" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img alt="Compose an email in Gmail" src="https://img.shields.io/badge/Gmail-Message_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b91c1c" /></a>
+  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img src="assets/button-portfolio.svg" width="190" alt="" /></a>
+  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img src="assets/button-gmail.svg" width="190" alt="" /></a>
   <br/><br/>
   <img width="100%" alt="Purple, pink, and navy footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ec4899,50:6d28d9,100:0f172a&section=footer&animation=fadeIn" />
 </div>
