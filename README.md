@@ -107,11 +107,28 @@ I believe in continuous learning, practical implementation and building technolo
   <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img src="assets/project-leetcode.svg" width="48%" alt="" /></a>
 </div>
 
-## 🏆 Certifications, Training & Achievements
+## 💼 Professional Journey
 
-- 🔐 **CyberArk PAM:** Completed CyberArk On-Premises Administration training and continuing to develop practical knowledge of Privileged Access Management.
+### Cognizant — Programmer Analyst Trainee
+*Joined: July 16*
+
+Building my professional software engineering foundation through technical learning, problem-solving and practical development experience.
+
+### 🔐 Cybersecurity Training
+- **CyberArk On-Premises Administration:** Completed training and developing practical knowledge of Privileged Access Management (PAM).
+
+<img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
+
+## 🏆 Certifications & Achievements
+
+**Certification areas**
+- 🔐 Privileged Access Management (PAM)
+- 🤖 Generative AI (GenAI)
+- 📊 Microsoft Power BI
+
+**Additional achievements**
 - 💻 **Problem Solving:** Built a collection of 300 Java solutions covering LeetCode data structures and algorithms.
-- 🤖 **Agentic AI:** Developed an AI-powered application using Google ADK and Gemini.
+- 🤖 **Agentic AI Project:** Developed an AI-powered application using Google ADK and Gemini.
 - ☁️ **Cloud Development:** Explored deployment of AI-powered applications using Google Cloud and Cloud Run.
 
 ## 🔐 Cybersecurity & AI Security
