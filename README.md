@@ -110,7 +110,7 @@ I believe in continuous learning, practical implementation and building technolo
 ## 💼 Professional Journey
 
 ### Cognizant — Programmer Analyst Trainee
-*Joined: July 16*
+*Joined: July 2026*
 
 Building my professional software engineering foundation through technical learning, problem-solving and practical development experience.
 
