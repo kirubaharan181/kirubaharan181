@@ -1,181 +1,104 @@
-<!-- GitHub profile README for Kirubaharan. Public project evidence only. -->
-
 <div align="center">
-  <img src="assets/hero-techy-boy.svg" width="100%" alt="Animated developer banner for Kirubaharan, showing a developer at a laptop and technology labels for Java, Python, TypeScript, AI, React, and Cloud Run" />
+  <img src="assets/hero-techy-boy.svg" width="100%" alt="Kirubaharan's developer banner" />
 
-  <br/>
+  <h1>Hi, I&apos;m Kirubaharan</h1>
+  <h3>Full-stack developer · AI applications · security-minded engineering</h3>
 
   <a href="https://github.com/kirubaharan181">
-    <img alt="Animated typing text describing Kirubaharan's engineering interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Java+%26+Python+developer+%7C+React+%2B+TypeScript;Building+AI+agents+and+automation+systems;Exploring+cloud-native+and+security-aware+engineering" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=Java+%7C+Python+%7C+JavaScript;Building+with+React+and+TypeScript;Exploring+agentic+AI+and+cloud+development" alt="Java, Python and JavaScript developer exploring React, TypeScript, AI and cloud" />
   </a>
 
-  <br/><br/>
+  <p>
+    <a href="https://kiruba-portfolio.vercel.app"><img src="assets/button-portfolio.svg" width="175" alt="Visit my portfolio" /></a>
+    <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="175" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:kirubakrishkk@gmail.com"><img src="assets/button-gmail.svg" width="175" alt="Email Kirubaharan" /></a>
+  </p>
 
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img src="assets/button-portfolio.svg" width="190" alt="" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img src="assets/button-gmail.svg" width="190" alt="" /></a>
-
-  <br/><br/>
-
-  <img alt="Profile view counter" src="https://visitor-badge.laobi.icu/badge?page_id=kirubaharan181.kirubaharan181" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kirubaharan181?label=Followers&style=flat-square&logo=github&color=ec4899" />
+  <img src="https://img.shields.io/badge/Location-Sankarankovil-0e7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Sankarankovil" />
+  <img src="https://img.shields.io/github/followers/kirubaharan181?label=Followers&style=flat-square&logo=github&color=7c3aed" alt="GitHub followers" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
-## About
+## About me
 
-### Software Developer | Agentic AI | Cybersecurity & Cloud
+I&apos;m a full-stack developer from **Sankarankovil, India** who enjoys building practical web applications and exploring how AI can make them more useful. My public GitHub profile describes my interests in user-friendly applications and lists **HTML, CSS, JavaScript, and Java**; my projects also show work with **Python, React, and TypeScript**.
 
-I build practical software applications, intelligent AI-powered systems, and automation solutions. My interests span full-stack development, agentic AI architectures, cloud technologies, and cybersecurity.
-
-**My engineering focus:**
-- 💻 **Software Engineering:** Java, Python, React, TypeScript, REST APIs and database-driven applications.
-- 🤖 **Agentic AI:** Google ADK, Gemini, AI agents, RAG, tool integration and intelligent automation.
-- 🔐 **Cybersecurity:** Hands-on work with CyberArk Privileged Access Management (PAM), privileged account security, identity security and exploring AI agent security.
-- ☁️ **Cloud & DevOps:** Google Cloud, Docker, CI/CD and cloud-native application development.
-
-I enjoy turning ideas into useful applications while continuously strengthening my engineering, problem-solving and security skills.
-
-### 🚀 About Me
-
-I'm a software developer interested in building reliable applications and exploring how AI and cybersecurity can shape the future of software engineering.
-
-My current focus includes:
-
-- Building full-stack applications and backend services.
-- Developing AI agents with tool integration, memory and automation capabilities.
-- Exploring Retrieval-Augmented Generation (RAG) and practical LLM applications.
-- Working with CyberArk PAM and strengthening my knowledge of identity and privileged access management.
-- Exploring security considerations for AI agents and cloud-based systems.
-- Improving software architecture, problem-solving and development practices.
-
-I believe in continuous learning, practical implementation and building technology that solves real-world problems.
+- Exploring agentic AI with **Google ADK and Gemini**.
+- Interested in application development, automation, and cybersecurity—especially **CyberArk PAM**.
+- Learning by building and sharing projects, from web apps to Java problem-solving.
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
-## Technology ecosystem
+## What I work with
 
 <div align="center">
 
-### 💻 Programming languages
-<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Java, Python and JavaScript logos" />
-<img src="https://img.shields.io/badge/SQL-Database_Query_Language-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-
-### 🎨 Frontend development
-<img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=dark" alt="HTML5, CSS3, React and Angular logos" />
-
-### ⚙️ Backend development
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js logos" />
-
-### 🤖 AI & Agentic AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch logos" />
-<br/>
-<img src="https://img.shields.io/badge/Google_Gemini-Generative_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Google_ADK-Agent_Development_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agent Development Kit" />
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0F766E?style=for-the-badge" alt="Retrieval Augmented Generation" />
-<img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-7C3AED?style=for-the-badge" alt="AI Agents" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-475569?style=for-the-badge" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-
-### 🔐 Cybersecurity
-<img src="https://img.shields.io/badge/CyberArk-Privileged_Access_Security-00A3E0?style=for-the-badge" alt="CyberArk" />
-<img src="https://img.shields.io/badge/IAM-Identity_Access_Management-334155?style=for-the-badge" alt="Identity and Access Management" />
-<img src="https://img.shields.io/badge/PAM-Privileged_Access_Management-334155?style=for-the-badge" alt="Privileged Access Management" />
-<img src="https://img.shields.io/badge/AI_Agent_Security-Secure_Agent_Access-7C3AED?style=for-the-badge" alt="AI Agent Security" />
-
-### 🗄️ Database & storage
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB and Firebase logos" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" alt="AWS, Docker, Kubernetes and GitHub Actions logos" />
-
-### 🛠️ Tools & platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman logos" />
-<img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Microsoft Power BI" />
+| Area | Tools & technologies |
+|:--|:--|
+| Languages & web | Java · Python · JavaScript · HTML · CSS · TypeScript |
+| Web development | React · portfolio and web application projects |
+| AI application | Google ADK · Gemini · Python · FastAPI · Cloud Run (TN Workout Coach project) |
+| Learning focus | CyberArk PAM · IAM · agentic AI security |
 
 </div>
+
+<details>
+  <summary><strong>Technology badges</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,ts,git,github&theme=dark" alt="Java, Python, JavaScript, HTML, CSS, React, TypeScript, Angular, Node.js, Express, MySQL, MongoDB, Firebase, Docker, Git, GitHub and VS Code" />
+  </div>
+</details>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
 ## Featured projects
 
 <div align="center">
-  <a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach"><img src="assets/project-workout.svg" width="48%" alt="" /></a>
-  <a href="https://github.com/kirubaharan181/HateEmofusion"><img src="assets/project-hateemofusion.svg" width="48%" alt="" /></a>
-  <a href="https://github.com/kirubaharan181/kiruba-portfolio"><img src="assets/project-portfolio.svg" width="48%" alt="" /></a>
-  <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img src="assets/project-leetcode.svg" width="48%" alt="" /></a>
+  <a href="https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach"><img src="assets/project-workout.svg" width="48%" alt="Tamil Nadu Workout and Nutrition Coach, an AI assistant built with Google ADK and Gemini" /></a>
+  <a href="https://github.com/kirubaharan181/HateEmofusion"><img src="assets/project-hateemofusion.svg" width="48%" alt="HateEmofusion, emoji-aware hate speech detection project" /></a>
+  <a href="https://github.com/kirubaharan181/kiruba-portfolio"><img src="assets/project-portfolio.svg" width="48%" alt="Kirubaharan's portfolio website" /></a>
+  <a href="https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions"><img src="assets/project-leetcode.svg" width="48%" alt="Java solutions to 300 LeetCode problems" /></a>
 </div>
 
-## 💼 Professional Journey
+### More from my GitHub
 
-### Cognizant — Programmer Analyst Trainee
-*Joined: July 2026*
-
-Building my professional software engineering foundation through technical learning, problem-solving and practical development experience.
-
-### 🔐 Cybersecurity Training
-- **CyberArk On-Premises Administration:** Completed training and developing practical knowledge of Privileged Access Management (PAM).
+- [SDLC Agentic Skills](https://github.com/kirubaharan181/sdlc-agentic-skills) — agentic skills for software development workflows.
+- [Sentiment Analysis](https://github.com/kirubaharan181/Sentiment_Analysis) — deep-learning approaches to product-review sentiment and ranking.
+- [Scoodemy](https://github.com/kirubaharan181/Scoodemy__An-E-Learning-Platform) — Java e-learning platform.
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
-## 🏆 Certifications & Achievements
-
-**Certification areas**
-- 🔐 Privileged Access Management (PAM)
-- 🤖 Generative AI (GenAI)
-- 📊 Microsoft Power BI
-
-**Additional achievements**
-- 💻 **Problem Solving:** Built a collection of 300 Java solutions covering LeetCode data structures and algorithms.
-- 🤖 **Agentic AI Project:** Developed an AI-powered application using Google ADK and Gemini.
-- ☁️ **Cloud Development:** Explored deployment of AI-powered applications using Google Cloud and Cloud Run.
-
-## 🔐 Cybersecurity & AI Security
-
-My cybersecurity learning and development focus:
-
-- **CyberArk PAM:** On-Premises Administration training and hands-on learning in Privileged Access Management.
-- **Identity & Access Management (IAM):** Privileged access, identity security, authentication and authorization.
-- **AI Agent Security:** Exploring secure AI agent identities, credential protection, least-privilege access and tool permissions.
-- **Cloud Security:** Learning secure configurations, access control and secrets management for cloud applications.
-
-**Current specialization:** CyberArk PAM | IAM | Privileged Access Security | AI Agent Security
-
-<img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
-
-## GitHub dashboard
+## GitHub activity
 
 <div align="center">
-  <a href="https://github.com/kirubaharan181"><img src="assets/github-analytics-visual.svg" width="100%" alt="" /></a>
-  <br/><br/>
+  <a href="https://github.com/kirubaharan181"><img src="assets/github-analytics-visual.svg" width="100%" alt="GitHub profile analytics" /></a>
+  <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake-dark.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake.svg" width="100%" alt="Contribution activity snake animation" />
   </picture>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
-## Current direction
+## Currently exploring
 
 <div align="center">
-  <img src="assets/daily-tech-focus.svg" width="100%" alt="" />
+  <img src="assets/daily-tech-focus.svg" width="100%" alt="Current learning and technology focus" />
 </div>
 
-- Daily exploring GitHub Trending repositories to discover useful projects, developer tools and emerging technologies.
-- Learning to design and orchestrate AI-agent workflows with n8n and connected platforms.
-- Improving AI-agent reliability, tool permissions, credential handling and safe automation boundaries.
-- Strengthening CyberArk PAM, IAM, Java problem solving and cloud security knowledge.
+- Building and refining AI-assisted applications and agent workflows.
+- Learning more about secure privileged access and identity management.
+- Practicing Java data structures and algorithms.
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Connect
+## Let&apos;s connect
 
 <div align="center">
-  <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img src="assets/button-portfolio.svg" width="190" alt="" /></a>
-  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img src="assets/button-gmail.svg" width="190" alt="" /></a>
-  <br/><br/>
+  <a href="https://kiruba-portfolio.vercel.app"><img src="assets/button-portfolio.svg" width="175" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="175" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:kirubakrishkk@gmail.com"><img src="assets/button-gmail.svg" width="175" alt="Email Kirubaharan" /></a>
+  <br /><br />
   <img width="100%" alt="Purple, pink, and navy footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ec4899,50:6d28d9,100:0f172a&section=footer&animation=fadeIn" />
 </div>
