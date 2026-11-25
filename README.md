@@ -13,10 +13,10 @@
   <br/>
 
   <a href="https://github.com/kirubaharan181">
-    <img alt="Animated typing text describing Kirubaharan's role and engineering interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Java+%26+Python+developer+%7C+React+%2B+TypeScript;Programmer+Analyst+Trainee+%40+Cognizant;Building+AI+agents+with+Google+ADK+%2B+Gemini;Exploring+CyberArk+PAM+%26+AI+agent+security" />
+    <img alt="Animated typing text describing Kirubaharan's role and engineering interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Java+%26+developer+%7C+SQL+%2B+JAVA;Programmer+Analyst+Trainee+%40+Cognizant;Building+AI+agents+with+N8N+%2B;Exploring+CyberArk+PAM+%26+AI+agent+security" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://kirubaharan181.github.io/kiruba-portfolio/"><img src="assets/button-portfolio.svg" width="190" alt="Open Kirubaharan's portfolio website" /></a>
   <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="Connect with Kirubaharan on LinkedIn" /></a>
