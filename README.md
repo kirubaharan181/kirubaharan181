@@ -110,7 +110,6 @@ Grouped by how much proof is behind each item, so nothing here is just a logo.
 
 </div>
 
-<details>
 <summary><strong> 🧭 Currently exploring </strong></summary>
 
 <br/>
@@ -123,10 +122,10 @@ Grouped by how much proof is behind each item, so nothing here is just a logo.
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,angular,postman&theme=dark" alt="AWS, Kubernetes, Angular and Postman logos" />
 </div>
 
-</details>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 <details>
+  
 ## Evidence map
 
 Each claim points at the files that prove it.
