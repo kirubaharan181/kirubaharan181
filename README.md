@@ -98,8 +98,6 @@ Grouped by how much proof is behind each item, so nothing here is just a logo.
 <img src="https://img.shields.io/badge/Cloud_Firestore-Agent_memory-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Cloud Firestore" />
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and Visual Studio Code logos" />
-
-### 📄 Listed on my resume
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js and MongoDB logos" />
 <img src="https://img.shields.io/badge/SQL-Database_Query_Language-2563EB?style=for-the-badge" alt="SQL" />
 <img src="https://img.shields.io/badge/Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Microsoft Power BI certification" />
@@ -113,7 +111,7 @@ Grouped by how much proof is behind each item, so nothing here is just a logo.
 </div>
 
 <details>
-<summary><strong>🧭 Currently exploring (no public project yet)</strong></summary>
+<summary><strong> 🧭 Currently exploring </strong></summary>
 
 <br/>
 
@@ -128,7 +126,7 @@ Grouped by how much proof is behind each item, so nothing here is just a logo.
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
-
+<details>
 ## Evidence map
 
 Each claim points at the files that prove it.
@@ -137,7 +135,6 @@ Each claim points at the files that prove it.
 |---|---|---|
 | Agentic AI on Google ADK + Gemini | [buildwithgemini-tn-workout-coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | `pyproject.toml` pins `google-adk` and `fastapi`; 11 test modules across `tests/unit`, `tests/integration` and `tests/eval` |
 | Cloud Run deployment and infrastructure as code | [buildwithgemini-tn-workout-coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | `Dockerfile` and 10 Terraform files in `deployment/terraform/single-project/` |
-| Agent memory on Firestore | [buildwithgemini-tn-workout-coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | `app/memory.py` and `seed_firestore.py` |
 | NLP research with explainability | [HateEmofusion](https://github.com/kirubaharan181/HateEmofusion) | `requirements.txt` pins `torch`, `transformers`, `shap`, `lime` and `bertviz` |
 | Deep-learning sentiment analysis | [Sentiment_Analysis](https://github.com/kirubaharan181/Sentiment_Analysis) | BERT, DistilBERT, RoBERTa, TextCNN and TextRNN comparison in a notebook |
 | Flask + Keras web application | [Twitter_Hateful_analysis](https://github.com/kirubaharan181/Twitter_Hateful_analysis) | `requirements.txt` pins Flask 3.1.0, TensorFlow 2.19.0 and Keras 3.9.0 |
@@ -145,7 +142,7 @@ Each claim points at the files that prove it.
 | Java desktop apps with MySQL | [Scoodemy](https://github.com/kirubaharan181/Scoodemy__An-E-Learning-Platform), [Wool_Management](https://github.com/kirubaharan181/Wool_Management) | Maven on Java 21 with MySQL connector and JUnit 5; 29 NetBeans Swing forms |
 | Data structures and algorithms | [300_Leetcode_Solved_Solutions](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions) | 293 distinct problems with Java solutions, organised by topic |
 | Engineering governance and CI | [sdlc-agentic-skills](https://github.com/kirubaharan181/sdlc-agentic-skills) | 4 GitHub Actions workflows, validation scripts and 10 Python test modules |
-
+</details>
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
 ## Featured projects
@@ -166,12 +163,9 @@ flowchart LR
     C --> D["2026<br/>Workout coach agent<br/>Google ADK · Gemini<br/>Cloud Run · Terraform"]
     D --> E["2026<br/>SDLC skills library<br/>190 stages · evidence gates"]
 ```
-
-<sub>2023–2025 entries come from my resume; the 2025 hate-speech app and both 2026 entries match the last-updated dates of their public repositories.</sub>
-
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
-## Experience and education
+## Experience
 
 ### 💼 Cognizant: Programmer Analyst Trainee
 *Joined: July 2026*
@@ -181,18 +175,11 @@ Building my professional software engineering foundation through technical learn
 ### 🔐 Cybersecurity training
 - **CyberArk On-Premises Administration:** completed training and developing practical knowledge of Privileged Access Management (PAM).
 
-### 🎓 Education
-| | Qualification | Institution | Years |
-|:-:|---|---|:-:|
-| 🎓 | B.Tech Information Technology (GPA 7.47 / 10) | Mepco Schlenk Engineering College, Sivakasi | 2022 – 2026 |
-| 🏫 | Higher Secondary 92% · SSLC 89% | Sri Gomathi Ambal Matric HSS, Sankarankovil | 2020 – 2022 |
-
 ### 🏆 Certifications and achievements
 - **Certifications:** Infosys Java Programming · Infosys SQL · Infosys Agile Methodology · Power BI. Training and certification areas I also work in: Privileged Access Management (PAM) and Generative AI.
 - **Symposium:** presented a deep learning project on sentiment analysis at a national-level tech symposium.
 - **Problem solving:** 293 LeetCode problems solved in Java in [this repository](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions).
 - **Training:** completed Oracle's one-week Java workshop on enterprise-level development.
-- **Agentic AI project:** built an AI application with Google ADK and Gemini, deployed on Google Cloud Run.
 
 ### 🔐 Cybersecurity and AI security focus
 - **CyberArk PAM:** On-Premises Administration training and hands-on learning in Privileged Access Management.
@@ -215,15 +202,6 @@ Building my professional software engineering foundation through technical learn
     <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/kirubaharan181/kirubaharan181/output/github-snake.svg" />
   </picture>
 </div>
-
-<details>
-<summary>📈 Widgets not loading?</summary>
-
-<br/>
-
-These cards come from free third-party services that sometimes time out or serve cached data. Live numbers are always on my [repositories tab](https://github.com/kirubaharan181?tab=repositories).
-
-</details>
 
 ### Recently updated repositories
 <sub>Auto-generated daily by GitHub Actions from the public repository API.</sub>
