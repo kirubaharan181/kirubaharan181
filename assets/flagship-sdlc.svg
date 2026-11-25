@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="t d">
+  <title id="t">Enterprise Engineering Skills Library</title>
+  <desc id="d">Banner for the sdlc-agentic-skills repository showing registry counts: 190 SDLC stages, 15 domains, 20 skills, 74 specialist roles and 23 workflows, snapshot of version 1.1.0.</desc>
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090f1e"/><stop offset="1" stop-color="#1a1240"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .pulse{animation:pulse 3.2s ease-in-out infinite}
+      .sweep{animation:sweep 6s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:.8}}
+      @keyframes sweep{from{transform:translateX(-260px)}to{transform:translateX(1040px)}}
+      @media (prefers-reduced-motion:reduce){.pulse,.sweep{animation:none}.sweep{display:none}}
+    </style>
+    <clipPath id="card"><rect x="3" y="3" width="994" height="294" rx="26"/></clipPath>
+  </defs>
+
+  <rect x="3" y="3" width="994" height="294" rx="26" fill="url(#bg)" stroke="url(#acc)" stroke-width="3"/>
+  <g clip-path="url(#card)">
+    <circle class="pulse" cx="880" cy="40" r="120" fill="#a78bfa" opacity=".35" filter="url(#glow)"/>
+    <circle class="pulse" cx="90" cy="290" r="110" fill="#22d3ee" opacity=".25" filter="url(#glow)"/>
+    <rect class="sweep" x="0" y="0" width="120" height="300" fill="#ffffff" opacity=".05" transform="skewX(-20)"/>
+  </g>
+
+  <text class="sans" x="45" y="52" font-size="13" font-weight="700" letter-spacing="3" fill="#22d3ee">LATEST FLAGSHIP</text>
+  <text class="sans" x="45" y="92" font-size="32" font-weight="800" fill="#ffffff">Enterprise Engineering Skills Library</text>
+  <text class="sans" x="45" y="122" font-size="16" fill="#cbd5e1">An evidence-driven operating model for AI-assisted software delivery</text>
+
+  <g class="sans" text-anchor="middle">
+    <g transform="translate(45 148)">
+      <rect width="170" height="96" rx="16" fill="#0d1530" stroke="#22d3ee" stroke-opacity=".7"/>
+      <text x="85" y="55" font-size="40" font-weight="800" fill="#ffffff">190</text>
+      <text x="85" y="79" font-size="12" font-weight="700" letter-spacing="2" fill="#22d3ee">SDLC STAGES</text>
+    </g>
+    <g transform="translate(230 148)">
+      <rect width="170" height="96" rx="16" fill="#0d1530" stroke="#38bdf8" stroke-opacity=".7"/>
+      <text x="85" y="55" font-size="40" font-weight="800" fill="#ffffff">15</text>
+      <text x="85" y="79" font-size="12" font-weight="700" letter-spacing="2" fill="#38bdf8">DOMAINS</text>
+    </g>
+    <g transform="translate(415 148)">
+      <rect width="170" height="96" rx="16" fill="#0d1530" stroke="#a78bfa" stroke-opacity=".7"/>
+      <text x="85" y="55" font-size="40" font-weight="800" fill="#ffffff">20</text>
+      <text x="85" y="79" font-size="12" font-weight="700" letter-spacing="2" fill="#a78bfa">SKILLS</text>
+    </g>
+    <g transform="translate(600 148)">
+      <rect width="170" height="96" rx="16" fill="#0d1530" stroke="#c084fc" stroke-opacity=".7"/>
+      <text x="85" y="55" font-size="40" font-weight="800" fill="#ffffff">74</text>
+      <text x="85" y="79" font-size="12" font-weight="700" letter-spacing="2" fill="#c084fc">SPECIALIST ROLES</text>
+    </g>
+    <g transform="translate(785 148)">
+      <rect width="170" height="96" rx="16" fill="#0d1530" stroke="#ec4899" stroke-opacity=".7"/>
+      <text x="85" y="55" font-size="40" font-weight="800" fill="#ffffff">23</text>
+      <text x="85" y="79" font-size="12" font-weight="700" letter-spacing="2" fill="#ec4899">WORKFLOWS</text>
+    </g>
+  </g>
+
+  <text class="sans" x="45" y="276" font-size="13" fill="#94a3b8">Registry snapshot of v1.1.0 · evidence gates · human approval for sensitive actions · MIT licence</text>
+</svg>
