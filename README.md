@@ -13,7 +13,7 @@
   <br/>
 
   <a href="https://github.com/kirubaharan181">
-    <img alt="Animated typing text describing Kirubaharan's role and engineering interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Java+%26+developer+%7C+SQL+%2B+JAVA;Programmer+Analyst+Trainee+%40+Cognizant;Building+AI+agents+with+N8N+%2B;Exploring+CyberArk+PAM+%26+AI+agent+security" />
+    <img alt="Animated typing text describing Kirubaharan's role and engineering interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Java+%26+developer+%7C+SQL+%2B+JAVA;Programmer+Analyst+Trainee+%40+Cognizant;Building+AI+agents+with+N8N%2B;Exploring+CyberArk+PAM+%26+AI+agent+security" />
   </a>
 
   <br/>
@@ -22,16 +22,16 @@
   <a href="https://www.linkedin.com/in/kiruba-haran-7369a0320"><img src="assets/button-linkedin.svg" width="190" alt="Connect with Kirubaharan on LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kirubakrishkk%40gmail.com"><img src="assets/button-gmail.svg" width="190" alt="Send Kirubaharan an email" /></a>
 
-  <br/><br/>
+  <br/>
 
   <img alt="Profile view counter" src="https://visitor-badge.laobi.icu/badge?page_id=kirubaharan181.kirubaharan181" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/kirubaharan181?label=Followers&style=flat-square&logo=github&color=ec4899" />
   <img alt="Number of public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkirubaharan181&query=%24.public_repos&label=Public%20repos&style=flat-square&logo=github&color=6d28d9" />
   <a href="https://leetcode.com/u/kirubaharan1"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-kirubaharan1-ffa116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 
-  <br/><br/>
+  <br/>
 
-  <sub><a href="#about">About</a> · <a href="#flagship-project">Flagship</a> · <a href="#technology-ecosystem">Stack</a> · <a href="#evidence-map">Evidence</a> · <a href="#featured-projects">Projects</a> · <a href="#build-journey">Journey</a> · <a href="#experience-and-education">Experience</a> · <a href="#github-dashboard">Dashboard</a> · <a href="#connect">Connect</a></sub>
+  <sub><a href="#about">About</a> · <a href="#flagship-project">Flagship</a> · <a href="#technology-ecosystem">Stack</a> · <a href="#featured-projects">Projects</a> · <a href="#build-journey">Journey</a> · <a href="#experience-and-education">Experience</a> · <a href="#github-dashboard">Dashboard</a> · <a href="#connect">Connect</a></sub>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
@@ -75,7 +75,7 @@ flowchart LR
     G --> A
 ```
 
-> **Honest status:** "complete" here means authored and structurally validated. The example validation commands have not been run against a real project, and the worked examples are labelled illustrative. Counts above are a snapshot of v1.1.0 and can be reproduced with `make build` in the repository.
+> 
 
 <img src="assets/divider.svg" width="100%" alt="Animated cyan, purple, and pink divider" />
 
