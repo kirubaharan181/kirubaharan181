@@ -208,7 +208,7 @@ Building my professional software engineering foundation through technical learn
 <!--START_SECTION:recent-repos-->
 | Repository | Last updated |
 |---|---|
-| [sdlc-agentic-skills](https://github.com/kirubaharan181/sdlc-agentic-skills) | 24 Nov 2026 |
+| [sdlc-agentic-skills](https://github.com/kirubaharan181/sdlc-agentic-skills) | 25 Nov 2026 |
 | [Scoodemy__An-E-Learning-Platform](https://github.com/kirubaharan181/Scoodemy__An-E-Learning-Platform) | 03 Nov 2026 |
 | [buildwithgemini-tn-workout-coach](https://github.com/kirubaharan181/buildwithgemini-tn-workout-coach) | 26 Sep 2026 |
 | [Wool_Management](https://github.com/kirubaharan181/Wool_Management) | 26 Apr 2026 |
